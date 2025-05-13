@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(115, 115, 189);
+}
+footer{
+    background-color:black
+    color:aliceblue
+    position: fixed 
+    bottom 0;
+}
